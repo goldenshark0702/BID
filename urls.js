@@ -36,6 +36,7 @@ const urls = [
       "https://goofy-shaw-6baa6e.netlify.app",
       "https://zen-perlman-12f25d.netlify.app",
       "https://angry-jang-7fdfcf.netlify.app",
+      "https://www.easyday.be/",
     ],
   },
   {
@@ -56,10 +57,6 @@ const urls = [
       "https://www.smileright.com.au/",
       "https://hardcore-turing-c1c568.netlify.app/",
     ],
-  },
-  {
-    title: "Bootstrap",
-    links: ["https://www.easyday.be/"],
   },
   {
     title: "Vue",
