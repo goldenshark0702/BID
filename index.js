@@ -73,8 +73,18 @@ const copyEvt = () => {
 };
 
 const init = () => {
-  showBids();
-  showUrls();
+  var chk_value = localStorage.getItem("me");
+  if (chk_value && chk_value == 1985) {
+    console.log(chk_value)
+    showBids();
+    showUrls();
+  } else {
+    console.log("Not Validation")
+    alert("Now it's develping and fixing our project");
+    // bids = []
+  }
+  // showBids();
+  // showUrls();
 };
 
 document.addEventListener("keydown", (evt) => {
