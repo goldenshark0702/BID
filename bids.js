@@ -1,5 +1,11 @@
-// var value = localStorage.getItem(keyName);
+var chk_value = localStorage.getItem("me");
+if (chk_value) {
+  console.log(chk_value)
+} else {
+  console.log("Not local value")
+}
 console.log("242342342342")
+
 const bids = [
   {
     title: "Introduce Maksym Zuiev ",
