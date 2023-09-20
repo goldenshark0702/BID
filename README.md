@@ -1,2 +1,2 @@
 # BID
-It's my private BID station
+It's my private BID stations
