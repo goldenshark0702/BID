@@ -1,4 +1,4 @@
-var value = localStorage.getItem(keyName);
+// var value = localStorage.getItem(keyName);
 console.log("242342342342")
 const bids = [
   {
