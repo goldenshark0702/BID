@@ -4,7 +4,7 @@ const urls = [
     links: [
       "https://www.freelancer.com/u/elinazomerfeld",
       "https://www.freelancer.com/search/projects/?ngsw-bypass=&w=f",
-      "?ngsw-bypass=&w=f",
+      "",
     ],
   },
   {
