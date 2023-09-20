@@ -21,6 +21,9 @@ const urls = [
       "https://cryptozoon.io",
       "https://risecity.io",
       "https://dearmonsters.info",
+      "https://dex.spintop.network/",
+      "https://map.somniumspace.com/",
+      ""
     ],
   },
   {
@@ -43,6 +46,8 @@ const urls = [
       "https://www.producthunt.com/",
       "https://nzxt.com/",
       "https://30shine.com",
+      "https://www.vrbo.com/",
+      "https://hape.io/ (react+threee.js)"
     ],
   },
   {
@@ -75,6 +80,24 @@ const urls = [
     links: [
       "https://www.sameer.restaurant/",
       "https://stopify.co/7TMBMJ",
+      "http://myhomeshopoffice.com/",
+      "https://www.gocoastalrealtor.com/",
+      "https://bellroy.com/(Wallet Website)",
+      "https://www.tilda.com/(Tilda Rice)",
+      "https://signals.network/(Design Concept is good)",
+      "https://simplychocolate.dk/(Simply Chocolate)",
+      "https://www.fatboy.com/(Fat Boy)",
+      "https://www.lumi.com/(Packaging Redefined)",
+      "https://ritual.com/(Vitamins)",
+      "http://www.southernstylespices.com/(Spices)",
+      "https://www.soylent.com/product/drink/(Soylent Drink)",
+      "https://kencko.com/(Kencho instant drink)",
+      "https://www.studioneat.com/(Studio Neat)",
+      "http://thecoloradan.com/(Real Estate)",
+      "http://tbilisigardens.ge/en(Apartments)",
+      "https://www.forhims.com/(Men Products)",
+      "https://www.gainful.com/(Gainful Protein)",
+
     ],
   },
   {
@@ -85,6 +108,28 @@ const urls = [
       "https://www.lambdaphx.org/",
       "https://www.peakcottages.com/",
       "http://www.restorationbodyworkaz.com",
+    ],
+  },
+  {
+    title: "Design",
+    links: [
+      "https://eainteriordesign.com/",
+      "https://www.coravity.com/",
+    ],
+  },
+  {
+    title: "Python",
+    links: [
+      "https://www.vacasa.com/",
+      "https://www.eyemyeye.com/",
+    ],
+  },
+  {
+    title: "Woocommerce",
+    links: [
+      "https://moeve-bikes.de/",
+      "http://azomco.com/ ( ONLINE STORE Wordpress Woocommerce)",
+      ""
     ],
   },
   {
@@ -99,6 +144,8 @@ const urls = [
       "https://www.wearecandidly.com/",
       "https://www.racontenous.fr/",
       "https://www.aluce.agency/",
+      "https://www.acton.space/",
+      "https://midlandswhiskeyexperiences.ie/",
     ],
   },
   {
