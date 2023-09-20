@@ -81,10 +81,7 @@ const init = () => {
   } else {
     console.log("Not Validation")
     alert("Now it's develping and fixing our project");
-    // bids = []
   }
-  // showBids();
-  // showUrls();
 };
 
 document.addEventListener("keydown", (evt) => {
