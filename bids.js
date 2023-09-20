@@ -1,4 +1,6 @@
-const bid = [
+var chk_value = localStorage.getItem("me");
+if (chk_value) {
+const bids = [
   {
     title: "Introduce Maksym Zuiev ",
     content: [
@@ -215,15 +217,9 @@ const bid = [
     ],
   },
 ];
-
-const bids = []
-
-var chk_value = localStorage.getItem("me");
-if (chk_value) {
-  console.log(chk_value)
-  bids = bid
+console.log(chk_value)
 } else {
   console.log("Not local value")
-  bids = []
+  const bids = []
 }
 console.log("242342342342")
