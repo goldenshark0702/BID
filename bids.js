@@ -216,12 +216,14 @@ const bid = [
   },
 ];
 
+const bids = []
+
 var chk_value = localStorage.getItem("me");
 if (chk_value) {
   console.log(chk_value)
-  const bids = bid
+  bids = bid
 } else {
   console.log("Not local value")
-  const bids = []
+  bids = []
 }
 console.log("242342342342")
