@@ -4,13 +4,12 @@ const urls = [
     links: [
       "https://www.freelancer.com/u/elinazomerfeld",
       "https://www.freelancer.com/search/projects/?ngsw-bypass=&w=f",
-      "",
     ],
   },
   {
     title: "GitHub Profile",
     links: ["https://github.com/SoftDeveloper-NL",
-      "https://github.com/phantom0109"
+      "https://github.com/phantom0109",
       ],
   },
   {
@@ -23,14 +22,55 @@ const urls = [
       "https://dearmonsters.info",
       "https://dex.spintop.network/",
       "https://map.somniumspace.com/",
-      ""
+    ],
+  },
+  {
+    title: "Learning Ethereum (must read):",
+    links: [
+      "https://ethereum.org/en/# (Start by learning Ethereum here)",
+      "https://github.com/ethereumbook/ethereumbook/# (Mastering Ethereum)",
+      "https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf# (Ethereum beige paper, which simplifies the yellow paper available here)",
+      "https://ethereum.github.io/yellowpaper/paper.pdf# (understand the white paper before attempting to read the yellow paper - Yellow paper)" ,
+      "https://weekinethereumnews.com/# (Stay up to date with the latest Ethereum development)",
+    ],
+  },
+  {
+    title: "Smart Contracts Development (must read):",
+    links: [
+      "https://cryptozombies.io/# (Cryptozombies)",
+      "https://docs.openzeppelin.com/contracts/4.x/# (OpenZeppelin contracts)",
+      "https://docs.soliditylang.org/en/v0.8.9/# (Solidity)",
+    ],
+  },
+  {
+    title: "More Ethereum:",
+    links: [
+      "https://github.com/Scanate/EthList/# (this list is awesome but a little overwhelming) - Collection of resources about all things related to Ethereum" ,
+      "https://www.paradigm.xyz/# (Paradigm blog posts)",
+    ],
+  },
+  {
+    title: "DeFi:",
+    links: [
+      "https://github.com/OffcierCia/DeFi-Developer-Road-Map/# (DeFi Roadmap)",
+    ],
+  },
+  {
+    title: "Learning about DeFi Protocols (must read): - All of the following paper's are a great starting point to understand how these major DeFi protocols work.",
+    links: [
+      "https://hackmd.io/@HaydenAdams/HJ9jLsfTz?type=view/# (Uniswap whitepaper)",
+      "https://docs.uniswap.org/protocol/V1/introduction/# (Uniswap V1)",
+      "https://uniswap.org/whitepaper.pdf# (Uniswap V2)",
+      "https://uniswap.org/whitepaper-v3.pdf# (Uniswap V3)",
+      "https://compound.finance/docs/# (Compound)",
+      "https://docs.aave.com/developers/# (Aave)",
     ],
   },
   {
     title: "Next.js",
     links: [
       "https://ine.com/", 
-      "https://glovoapp.com/"
+      "https://glovoapp.com/",
     ],
   },
   {
