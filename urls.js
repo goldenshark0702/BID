@@ -196,13 +196,12 @@ const urls = [
     links: [
       "https://react-main-avatar-cbtixfq40-anthonyjackson1019.vercel.app/#",
       "(Code)https://github.com/coolguy741/ax_dapp_recent",
-      https://us.qualatex.com/en-us/ (Python/Django)
-http://digicorp.com.bo/ (Python/Django)
-https://sovasystems.com (SAAS based web application)
-https://fannel.app
-https://outsized.com
-https://valence.community/
-
+      "https://us.qualatex.com/en-us/# (Python/Django)",
+      "http://digicorp.com.bo/# (Python/Django)",
+      "https://sovasystems.com/# (SAAS based web application)",
+      "https://fannel.app",
+      "https://outsized.com",
+      "https://valence.community/",
     ],
   },
   {
