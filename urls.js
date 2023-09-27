@@ -296,7 +296,7 @@ https://valence.community/
       "https://estimator.rdvault.co.uk/# (Estimator project)",
       "https://drive.google.com/drive/folders/18I44rJiJLAGalXkhq8_UuIwdtoelb4uM?usp=sharing/# (Online quiz system project)",
       "https://drive.google.com/drive/folders/1u40ZbwNvKzIlJX7oNwjaDHGdLisEdIOv?usp=sharing/# (Time tracker desktop application)",
-      "URL : https://nailstry.com/# (Nailstry project)",
+      "https://nailstry.com/# (Nailstry project)",
     ],
   },
 ];
