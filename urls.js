@@ -233,7 +233,6 @@ const urls = [
       "http://www.formationstone.com/",
       "https://show-case.caebusinesssolutions.co.uk",
       "",
-      "",
     ],
   },
 ];
