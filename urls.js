@@ -137,7 +137,15 @@ const urls = [
       "http://tbilisigardens.ge/en/# (Apartments)",
       "https://www.forhims.com/# (Men Products)",
       "https://www.gainful.com/# (Gainful Protein)",
-
+      "https://whalies.club",
+      "https://riotflavours.com/",
+      "https://atctower.com/",
+      "https://stanbranding.com/Ka",
+      "https://startempirewire.com",
+      "https://www.dltinteriordesigns.com",
+      "https://seattleshoulderdoc.com",
+      "https://juschekrapid.com.au/",
+      "https://catwalkfashion.co.uk/",
     ],
   },
   {
