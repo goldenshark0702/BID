@@ -196,6 +196,13 @@ const urls = [
     links: [
       "https://react-main-avatar-cbtixfq40-anthonyjackson1019.vercel.app/#",
       "(Code)https://github.com/coolguy741/ax_dapp_recent",
+      https://us.qualatex.com/en-us/ (Python/Django)
+http://digicorp.com.bo/ (Python/Django)
+https://sovasystems.com (SAAS based web application)
+https://fannel.app
+https://outsized.com
+https://valence.community/
+
     ],
   },
   {
@@ -281,6 +288,15 @@ const urls = [
       "http://ereality.cz/# (Portfolio)",
       "http://conversejob.com/# (Portfolio)",
       "https://www.jenjoes.com/# (Portfolio)",
+      "https://www.ninjaprotocol.io/# (Solana gaming)",
+      "http://www.febcprocure.com/# (Procurement Management System)",
+      "https://nationalcoronavirushotline.com/# (Corona Virus Management System)",
+      "https://www.guestsandco.com/# (Renting property on AIR BND and similar Platforms)",
+      "https://poopie-pibull.vercel.app/# (NFT)",
+      "https://estimator.rdvault.co.uk/# (Estimator project)",
+      "https://drive.google.com/drive/folders/18I44rJiJLAGalXkhq8_UuIwdtoelb4uM?usp=sharing/# (Online quiz system project)",
+      "https://drive.google.com/drive/folders/1u40ZbwNvKzIlJX7oNwjaDHGdLisEdIOv?usp=sharing/# (Time tracker desktop application)",
+      "URL : https://nailstry.com/# (Nailstry project)",
     ],
   },
 ];
