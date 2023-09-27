@@ -134,7 +134,7 @@ const urls = [
       "https://kencko.com/# (Kencho instant drink)",
       "https://www.studioneat.com/# (Studio Neat)",
       "http://thecoloradan.com/# (Real Estate)",
-      "http://tbilisigardens.ge/en/# (Apartments)",
+      "http://tbilisigardens.ge/en///# (Apartments)",
       "https://www.forhims.com/# (Men Products)",
       "https://www.gainful.com/# (Gainful Protein)",
       "https://whalies.club",
