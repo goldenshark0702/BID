@@ -1,6 +1,7 @@
 # BID
 It's my private BID stations for job hunting.
-There are a lot of sections in this platform.
+<br>
+There are a lot of sections in this platforms
 
 ## Usage
 It's Html code.
